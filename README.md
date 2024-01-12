@@ -1,4 +1,4 @@
-# Desafio entrevista NodeJS 
+# Desafio entrevista Python 
 
 Este projeto é um desafio para a vaga de desenvolvedor Python, consiste em uma API feita utilizando o framework Flask que consome a API do openweather para buscar a previsão dos próximos 5 dias.
 
