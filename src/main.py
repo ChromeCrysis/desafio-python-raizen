@@ -6,7 +6,7 @@ from datetime import datetime
 app = Flask(__name__)
 
 # Configurar a chave da API OpenWeatherMap
-API_KEY = "5fd9ec63b1865d1bfa1f41bb1c0f1d9e"
+API_KEY = "DIGITE_SUA_API_KEY"
 
 # Configurar o cliente MongoDB
 client = MongoClient('localhost', 27017)
